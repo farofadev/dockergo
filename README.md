@@ -2,11 +2,11 @@
 
 ## Do que se trata este projeto?
 
-Skeleton para início rapido de projetos Golang com Docker.
+Skeleton para início rápido de projetos Golang com Docker.
 
 ## Arquitetura utilizada no projeto
 
-Docker, Docker-compose, GO e banco de dados MySql
+Docker, Docker-compose, GO, GOW e MySQL
 
 ## Configuração/instalação
 
