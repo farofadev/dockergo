@@ -1,8 +1,8 @@
-# GOESIC REST API
+# Docker Go
 
 ## Do que se trata este projeto?
 
-Um Sistema Eletrônico do Serviço de Informações ao Cidadão (e-SIC) permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso à informação, acompanhe o prazo e receba a resposta da solicitação realizada para órgãos e entidades. Neste projeto temos uma API REST utilizando a linguagem GO.
+Skeleton para início rapido de projetos Golang com Docker.
 
 ## Arquitetura utilizada no projeto
 
